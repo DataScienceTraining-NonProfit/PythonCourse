@@ -7,7 +7,7 @@
 
 # Microsoft Azure Notebooks:
 (Cloud hosted notebooks)  
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/sumendar/libraries/FoundationOfStatsDSAIML-Python)
+[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/datascienceportal/projects/pythoncourse)
 
 # Binder:
 (interactive notebooks)  
