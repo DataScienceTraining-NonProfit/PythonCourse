@@ -11,7 +11,7 @@
 
 # Binder:
 (interactive notebooks)  
-[![Binder](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/PythonCourse/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/PythonCourse/master)
 
 # Download directory/folder 
 (*right click below link and paste the url path of the directory you wish to download*)  
