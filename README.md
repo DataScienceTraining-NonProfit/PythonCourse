@@ -14,9 +14,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataScienceTraining-NonProfit/PythonCourse/master)
 
 # Slack:  
-(for chatting)  
+(for queries&chatting)  
 [<img align="left" width="100" src="00-InstallationEnvironmentSetupAndConfiguration/imgs/join-slack-team.png">](https://join.slack.com/t/datascienceportal/shared_invite/enQtOTMyNTAzNDg3OTIyLWUwMmRlNWEyN2NlYWFkMTc3OTViZjUxZTM3OWFiOTE1ODNjOGQxYzcxZjgxZDkyZjk1NDI3ZmMxYjExYTZlYzI)   
-    
+      
 # Download directory/folder 
 (*right click below link and paste the url path of the directory you wish to download*)  
 :arrow_down:https://goo.gl/QkH3sC
