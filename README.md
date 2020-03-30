@@ -19,7 +19,7 @@
       
 # Download directory/folder 
 (*right click below link and paste the url path of the directory you wish to download*)  
-:arrow_down:https://goo.gl/QkH3sC
+:arrow_down:https://yehonal.github.io/DownGit/  
 
 # Directory Explorer:      
 :open_file_folder:Topic/  
